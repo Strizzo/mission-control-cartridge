@@ -1,0 +1,8 @@
+[
+  "LICENSE",
+  "cartridge.json",
+  "icon.png",
+  "main.lua",
+  "model.lua",
+  "view.lua"
+]
